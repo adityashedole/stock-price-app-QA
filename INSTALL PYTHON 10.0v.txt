@@ -1,0 +1,14 @@
+****INSTALL PYTHON 10.0v*********
+
+step 1:
+Create Virtual Environment
+python -m venv <environment_name>
+
+step 2:
+install dependencies based on the IMPORT FILE
+
+Step 3:
+Run CMD:
+streamlit run app2.py
+
+

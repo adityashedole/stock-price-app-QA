@@ -1,0 +1,15 @@
+streamlit
+numpy
+pandas
+matplotlib
+yfinance
+tensorflow
+scikit-learn
+xgboost
+fpdf
+textblob
+ta
+plotly
+openpyxl
+forex_python
+polygon-api-client
