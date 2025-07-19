@@ -4,7 +4,7 @@ This is a final year academic project built using Python, Streamlit, and Polygon
 
 ## 🔍 My Role: QA Tester
 
-As the QA intern/tester, I contributed by testing the application thoroughly and reporting bugs.
+As the QA tester, I contributed by testing the application thoroughly and reporting bugs.
 
 ### ✅ Key Responsibilities
 
